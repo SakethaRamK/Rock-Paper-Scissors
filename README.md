@@ -23,5 +23,5 @@ python rock_paper_scissors.py
 - Loops
 - Conditional statements
 - Input validation
-- `random` module
-- `match-case`
+- random module
+- match-case
